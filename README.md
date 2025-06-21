@@ -8,9 +8,9 @@ I'm a Computer Science and Business Administration undergraduate at Northeastern
 
 ## Technical Skills
 
-**Languages:** Java, Python, SQL, React
-**Tools and Frameworks:** Git, JUnit, Swing, MongoDB
-**Concepts:** OOP design, data structures, backend systems, AI, financial modeling
+**Languages:** Java, Python, SQL, React  
+**Tools and Frameworks:** Git, JUnit, Swing, MongoDB  
+**Concepts:** OOP design, data structures, backend systems, AI, financial modeling  
 
 ---
 ## Contact
