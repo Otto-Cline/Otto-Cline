@@ -1,7 +1,20 @@
-## Hi there 👋
+## Hi, I'm Otto 🛠
 
-<!--
-- 🌱 I’m currently learning computer science at Northeastern University
-- 📫 How to reach me: cline.o@northeastern.edu
-- 😄 Pronouns: he/him
--->
+I'm a Computer Science and Business Administration undergraduate at Northeastern University, interested in backend development, artificial intelligence, and finance.
+
+<!---
+## Selected Projects-->
+---
+
+## Technical Skills
+
+**Languages:** Java, Python, SQL, React
+**Tools and Frameworks:** Git, JUnit, Swing, MongoDB
+**Concepts:** OOP design, data structures, backend systems, AI, financial modeling
+
+---
+## Contact
+
+**Email:** ottoclinework@gmail.com  
+**LinkedIn:** [linkedin.com/in/otto-cline]((https://www.linkedin.com/in/otto-cline/))  
+
