@@ -16,5 +16,5 @@ I'm a Computer Science and Business Administration undergraduate at Northeastern
 ## Contact
 
 **Email:** ottoclinework@gmail.com  
-**LinkedIn:** [linkedin.com/in/otto-cline]((https://www.linkedin.com/in/otto-cline/))  
+**LinkedIn:** https://www.linkedin.com/in/otto-cline/
 
