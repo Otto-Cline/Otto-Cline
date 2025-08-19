@@ -1,6 +1,4 @@
-## Hello!
-
-## Techical Skills
+## Hi I'm Otto 👋
 
 **Languages:** 
 
@@ -12,13 +10,10 @@
 
 **Concepts:** OOP design, data structures, backend systems, financial modeling
 
----
-## Contact
-
-📧 [ottoclinework@gmail.com](mailto:ottoclinework@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/otto-cline/)
+**Work Contact:** [ottoclinework@gmail.com](mailto:ottoclinework@gmail.com)
 
 ---
+**Cool SVG that updates with my contribution graph every day:**
 <!-- Breakout game by @cyprieng: https://github.com/cyprieng/github-breakout -->
 <picture>
   <source
