@@ -21,4 +21,16 @@ My name is Otto and I am a 2nd year Computer Science and Business Administration
 
 **Email:** ottoclinework@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/otto-cline/
+---
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
