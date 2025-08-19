@@ -19,10 +19,11 @@ My name is Otto and I am a 2nd year Computer Science and Business Administration
 ---
 ## Contact
 
-**Email:** ottoclinework@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/otto-cline/
----
+📧 [ottoclinework@gmail.com](mailto:ottoclinework@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/otto-cline/)
 
+---
+<!-- Breakout game by @cyprieng: https://github.com/cyprieng/github-breakout -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
