@@ -1,9 +1,5 @@
 ## Hello!
 
-My name is Otto and I am a 2nd year Computer Science and Business Administration major at Northeastern University interested in backend development, artificial intelligence, and finance. I also like philosophy and reading about geopolitics. Currently looking for internship opportunities.
-
----
-
 ## Techical Skills
 
 **Languages:** 
