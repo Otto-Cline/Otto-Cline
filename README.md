@@ -28,9 +28,3 @@
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
-
-
-<!-- ARBOR_CARD -->
-
-[![Arbor Card](https://pub-150e34d764c54fc9856328d85f4e7d45.r2.dev/cards/otto1.png)](https://arbor-blue.vercel.app/otto1)
-<!-- ARBOR_CARD -->
