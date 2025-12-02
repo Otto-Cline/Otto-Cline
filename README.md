@@ -12,7 +12,7 @@
 
 **Work Contact:** [ottoclinework@gmail.com](mailto:ottoclinework@gmail.com) 
 
-**Portfolio:** [ottoc.dev](https://ottoc.dev)
+**Portfolio (kinda old I need to update it):** [ottoc.dev](https://ottoc.dev)
 
 ---
 **Cool SVG that updates with my contribution graph every day:**
