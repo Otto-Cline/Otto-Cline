@@ -8,7 +8,7 @@
 
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 
-**Things I'm working on:** RAG bla bla MCP bla bla NLP and streamlining financial modeling, currently in a grace period between serious projects
+**Things I'm working on:** getting good at making sparse autoencoders
 
 **Work Contact:** [ottoclinework@gmail.com](mailto:ottoclinework@gmail.com) 
 
