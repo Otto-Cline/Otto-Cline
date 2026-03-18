@@ -2,7 +2,7 @@
 
 working on search engines, llm tooling
 
-**work contact:** [ottoclinework@gmail.com](mailto:ottoclinework@gmail.com) 
+**work contact:** [ottoclinework@gmail.com](mailto:ottoclinework@gmail.com), 917-242-7562
 
 **portfolio (kinda old I need to update it):** [ottoc.dev](https://ottoc.dev)
 
