@@ -4,7 +4,7 @@ working on search engines, llm tooling
 
 **work contact:** [ottoclinework@gmail.com](mailto:ottoclinework@gmail.com)
 
-**portfolio (kinda old I need to update it):** [ottoc.dev](https://ottoc.dev)
+**portfolio:** [ottoc.dev](https://ottoc.dev)
 
 ---
 **cool svg that updates with my contribution graph every day:**
