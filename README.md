@@ -1,6 +1,6 @@
 ## hi i'm otto
 
-working on search engines, llm tooling
+working with search engines, llm tooling
 
 **work contact:** [ottoclinework@gmail.com](mailto:ottoclinework@gmail.com)
 
