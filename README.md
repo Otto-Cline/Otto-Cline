@@ -1,6 +1,7 @@
 ## hi i'm otto
 
 working with search engines, llm tooling
+goated memory for your agents coming soon 
 
 **work contact:** [ottoclinework@gmail.com](mailto:ottoclinework@gmail.com)
 
